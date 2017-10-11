@@ -1,7 +1,7 @@
 <h1>ProgUzytkowe</h1>
-Autor projektu:
--Organek Piotr
+<br>Autor projektu: </br>
+<br> - Organek Piotr </br>
 <h2>Opis projektu</h2>
-- zalozenie konta w GitHub
-- urzywanie komend i polecen
-- tworzenie projektu
+<br> - zalozenie konta w Github </br>
+<br> - używanie komend i polecen </br>
+<br> - tworzenie projektu </br>
