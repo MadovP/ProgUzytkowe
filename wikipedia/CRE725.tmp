@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[MeX]{polski}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{Tabia Charles}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+\begin{table}
+\begin{tabular}{lc}
+\hline
+\textbf{o´srodek}&\textbf{współczynnik}\\
+\hline
+diament&2{,}42\\
+szkło&1{,}52\\
+woda&1{,}33\\
+\hline
+\end{tabular}
+\caption{Przykłady współczynników załamania}
+\end{table}
+
+\end{abstract}
+
+\section{}
+
+\end{document}
